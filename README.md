@@ -1,11 +1,6 @@
 # 📚 Tuition Class Batch & Fee Ledger System
 > **A robust relational database case study modeling tuition batches, student enrolments, multi-instalment fee tracking, and race-free concurrent seat allocation in PostgreSQL.**
 
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15%2B-336791?style=for-the-badge&logo=postgresql&logoColor=white)](#)
-[![Database](https://img.shields.io/badge/Schema-3NF%20Normalized-4E7AB5?style=for-the-badge)](#)
-[![Transactions](https://img.shields.io/badge/ACID-Enforced-success?style=for-the-badge)](#)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](#)
-
 ---
 
 ## 📑 Table of Contents
